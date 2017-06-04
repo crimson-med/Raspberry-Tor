@@ -1,9 +1,9 @@
-# Smite-Vb
+# Raspberry-Tor
 
-VB.net application for the SMITE API
+A TOR Router made from Rapsberry Pi3 (Ethernet to Wi-Fi Hotspot)
 
 # About this Branch
 
-This branch was made with no history and is used to mantain the GitHub Smite-Vb Project Page
+This branch was made with no history and is used to mantain the GitHub Rapsberry-Tor Project Page
 
-https://crimson-med.github.io/Smite-Vb/
+https://github.com/crimson-med/Raspberry-Tor
